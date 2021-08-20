@@ -6,6 +6,6 @@ body {
 img.responsive { width: 1080px; }
 }
 @media screen and ( min-width: 1025px) {
-img.responsive { width: 500px;}
+img.responsive { width: 350px;}
 }
 img.responsive { height: auto; }
