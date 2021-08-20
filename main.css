@@ -1,3 +1,11 @@
 body {
   background-color: #000000;
 }
+
+@media screen and ( max-width: 1024px ) {
+img.responsive { width: 1080px; }
+}
+@media screen and ( min-width: 1025px) {
+img.responsive { width: 810px;}
+}
+img.responsive { height: auto; }
